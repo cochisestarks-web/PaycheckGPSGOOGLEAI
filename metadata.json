@@ -1,0 +1,5 @@
+{
+  "name": "PaycheckGPS",
+  "description": "A high-fidelity wage analysis tool that compares current compensation against inflation-adjusted purchasing power and real-world market rates using historical CPI-U and BLS data.",
+  "requestFramePermissions": []
+}
